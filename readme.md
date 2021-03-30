@@ -11,3 +11,5 @@ Instalar o play framework [Play Framework](https://www.playframework.com/) vers�
 git clone https://github.com/wendellclive/desafio-pbsoft
 sbt run
 ```
+
+Obs: no Arquivo Constantes.java, incluir o token pessoal do github para tratar as restrições da API do GitHub na variável GH_TOKEN
